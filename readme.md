@@ -4,7 +4,7 @@
 <p>arxiv_pyler.py searches the pdf under the directory given by the user, 
 and output the meta data(arxiv identifier, title, author and abstract) 
 about the papers in an html file. The html file uses bootstrap so as to 
-look much better than the raw html. </p>
+look much better than the raw html.(bootstrap files not included) </p>
 <p>arxiv_pyler_gui.py is the gui version of the script. It does basically 
 the same thing besides that it output meta data in the gui.</p>
 <p>Both scripts are written in Python2.7.</p>
