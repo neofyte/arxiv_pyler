@@ -3,6 +3,10 @@ Introduction
 
 arXiv-pyler, collects information of  arXiv:Pdf's on the path given by the user, generates a html and pile the pdfs.
 
+This repo still needs further furnishments.
+
+scripts under py2 work normally while others need further check. I will port it to py3 asap and make it work as smoothly as possible.
+
 Situation
 ==========
 
