@@ -15,7 +15,7 @@ def arxiv_pyler(path):
     if os.path.exists(path):
         COUNTER = 0
         if path==None:
-            pass
+            return
         entry_list=[]
         print path
         for root, dirs, files in os.walk(path):
